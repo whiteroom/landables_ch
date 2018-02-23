@@ -19,7 +19,7 @@ No installation needed
 ### Contributing
 
 See <a href="https://github.com/whiteroom/landables_ch/issues">
-        <img src="https://img.shields.io/github/issues/whiteroom/ch_landables.svg"
+        <img src="https://img.shields.io/github/issues/whiteroom/landables_ch.svg"
             alt="Issues"></a>
 .
 
