@@ -21,8 +21,13 @@ No installation needed
 See <a href="https://github.com/whiteroom/landables_ch/issues">
         <img src="https://img.shields.io/github/issues/whiteroom/landables_ch.svg"
             alt="Issues"></a>
-.
+
 
 - If you found any problems, please report on issues page.
 - If you made any change, send me pull request.
 
+
+### License
+  <a href="https://raw.githubusercontent.com/whiteroom/landables_ch/master/LICENSE">
+        <img src="https://img.shields.io/badge/license-MIT-blue.svg"
+    alt="LICENSE"></a>
