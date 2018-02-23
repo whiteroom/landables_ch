@@ -29,5 +29,5 @@ See <a href="https://github.com/whiteroom/landables_ch/issues">
 
 ### License
   <a href="https://raw.githubusercontent.com/whiteroom/landables_ch/master/LICENSE">
-        <img src="https://img.shields.io/badge/license-MIT-blue.svg"
+        <img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg"
     alt="LICENSE"></a>
