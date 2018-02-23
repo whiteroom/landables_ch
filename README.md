@@ -10,3 +10,19 @@ This is done with a novel approach by separating visual representation (PDF) fro
 For the sake of simplicity Adobe Indesign is used to process data and to generated the output.
 
 landables_ch uses a lot of spadework courtesy of A. Spinnler
+
+
+### Installation
+No installation needed
+
+
+### Contributing
+
+See <a href="https://github.com/whiteroom/landables_ch/issues">
+        <img src="https://img.shields.io/github/issues/whiteroom/ch_landables.svg"
+            alt="Issues"></a>
+.
+
+- If you found any problems, please report on issues page.
+- If you made any change, send me pull request.
+
