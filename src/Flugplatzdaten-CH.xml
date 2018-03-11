@@ -4,8 +4,8 @@
            
             <version>
                 <title>Flugplatzdaten Segelflug CH</title>
-                <release>0.05</release>
-                <date>2018-02-23</date>
+                <release>0.10</release>
+                <date>2018-03-11</date>
             </version>
             <Airfield ctr="true" mil="true">
                 <Identifier icao="LSMA">Alpnach</Identifier>
