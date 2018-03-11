@@ -4,7 +4,7 @@
            
             <version>
                 <title>Flugplatzdaten Segelflug CH</title>
-                <release>0.10</release>
+                <release>0.11</release>
                 <date>2018-03-11</date>
             </version>
             <Airfield ctr="true" mil="true">
@@ -19,7 +19,7 @@
                     <Runway>
                         <Heading>20</Heading>
                         <Heading>02</Heading>
-                        <Appr href="file:///Aerodromes/generic.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -37,7 +37,7 @@
                     <Runway>
                         <Heading>11</Heading>
                         <Heading>29</Heading>
-                        <Appr href="file:///Aerodromes/ambri.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -55,7 +55,7 @@
                     <Runway>
                         <Heading>09</Heading>
                         <Heading>27</Heading>
-                        <Appr href="file:///Aerodromes/amlikon.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -73,7 +73,7 @@
                     <Runway>
                         <Heading>12</Heading>
                         <Heading>30</Heading>
-                        <Appr href="file:///Aerodromes/badragaz.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -91,7 +91,7 @@
                     <Runway>
                         <Heading>08</Heading>
                         <Heading>26</Heading>
-                        <Appr href="file:///Aerodromes/bellechasse.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -111,7 +111,7 @@
                     <Runway>
                         <Heading>14</Heading>
                         <Heading>32</Heading>
-                        <Appr href="file:///Aerodromes/bernbelp.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -129,7 +129,7 @@
                     <Runway>
                         <Heading>15</Heading>
                         <Heading>33</Heading>
-                        <Appr href="file:///Aerodromes/bex.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -147,7 +147,7 @@
                     <Runway>
                         <Heading>05</Heading>
                         <Heading>23</Heading>
-                        <Appr href="file:///Aerodromes/biel-kappelen.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -166,7 +166,7 @@
                     <Runway>
                         <Heading>08</Heading>
                         <Heading>26</Heading>
-                        <Appr href="file:///Aerodromes/birrfeld.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -184,7 +184,7 @@
                     <Runway>
                         <Heading>07</Heading>
                         <Heading>25</Heading>
-                        <Appr href="file:///Aerodromes/bressaucourt.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -203,7 +203,7 @@
                     <Runway>
                         <Heading>07</Heading>
                         <Heading>25</Heading>
-                        <Appr href="file:///Aerodromes/buochs.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -221,7 +221,7 @@
                     <Runway>
                         <Heading>16</Heading>
                         <Heading>34</Heading>
-                        <Appr href="file:///Aerodromes/buttwil.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -239,7 +239,7 @@
                     <Runway>
                         <Heading>06</Heading>
                         <Heading>24</Heading>
-                        <Appr href="file:///Aerodromes/courtelary.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -257,7 +257,7 @@
                     <Runway>
                         <Heading>11</Heading>
                         <Heading>29</Heading>
-                        <Appr href="file:///Aerodromes/dittingen.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -275,7 +275,7 @@
                     <Runway>
                         <Heading>10</Heading>
                         <Heading>28</Heading>
-                        <Appr href="file:///Aerodromes/ecuvillens.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -294,7 +294,7 @@
                     <Runway>
                         <Heading>22</Heading>
                         <Heading>04</Heading>
-                        <Appr href="file:///Aerodromes/emmen.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -312,7 +312,7 @@
                     <Runway>
                         <Heading>07</Heading>
                         <Heading>25</Heading>
-                        <Appr href="file:///Aerodromes/fricktal-schupfart.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -332,7 +332,7 @@
                     <Runway>
                         <Heading>07</Heading>
                         <Heading>25</Heading>
-                        <Appr href="file:///Aerodromes/grenchen.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -350,7 +350,7 @@
                     <Runway>
                         <Heading>17</Heading>
                         <Heading>35</Heading>
-                        <Appr href="file:///Aerodromes/gruyeres.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -368,7 +368,7 @@
                     <Runway>
                         <Heading>09</Heading>
                         <Heading>27</Heading>
-                        <Appr href="file:///Aerodromes/hausen.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -387,7 +387,7 @@
                     <Runway>
                         <Heading>21</Heading>
                         <Heading>03</Heading>
-                        <Appr href="file:///Aerodromes/kaegiswil.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -405,7 +405,7 @@
                     <Runway>
                         <Heading>22</Heading>
                         <Heading>04</Heading>
-                        <Appr href="file:///Aerodromes/lacote.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -423,7 +423,7 @@
                     <Runway>
                         <Heading>23</Heading>
                         <Heading>05</Heading>
-                        <Appr href="file:///Aerodromes/langenthal.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -442,7 +442,7 @@
                     <Runway>
                         <Heading>18</Heading>
                         <Heading>36</Heading>
-                        <Appr href="file:///Aerodromes/lausanne.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -460,7 +460,7 @@
                     <Runway>
                         <Heading>24</Heading>
                         <Heading>06</Heading>
-                        <Appr href="file:///Aerodromes/leseplatures.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -480,7 +480,7 @@
                     <Runway>
                         <Heading>08</Heading>
                         <Heading>26</Heading>
-                        <Appr href="file:///Aerodromes/locarno.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -499,7 +499,7 @@
                     <Runway>
                         <Heading>16</Heading>
                         <Heading>34</Heading>
-                        <Appr href="file:///Aerodromes/lodrino.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -517,7 +517,7 @@
                     <Runway>
                         <Heading>24</Heading>
                         <Heading>06</Heading>
-                        <Appr href="file:///Aerodromes/lommis.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -535,7 +535,7 @@
                     <Runway>
                         <Heading>16</Heading>
                         <Heading>34</Heading>
-                        <Appr href="file:///Aerodromes/luzern-beromuenster.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -553,7 +553,7 @@
                     <Runway>
                         <Heading>10</Heading>
                         <Heading>28</Heading>
-                        <Appr href="file:///Aerodromes/meiringen.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -571,7 +571,7 @@
                     <Runway>
                         <Heading>19</Heading>
                         <Heading>01</Heading>
-                        <Appr href="file:///Aerodromes/mollis.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -590,7 +590,7 @@
                     <Runway>
                         <Heading>21</Heading>
                         <Heading>03</Heading>
-                        <Appr href="file:///Aerodromes/montricher.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -608,7 +608,7 @@
                     <Runway>
                         <Heading>05</Heading>
                         <Heading>23</Heading>
-                        <Appr href="file:///Aerodromes/motiers.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -626,7 +626,7 @@
                     <Runway>
                         <Heading>05</Heading>
                         <Heading>23</Heading>
-                        <Appr href="file:///Aerodromes/muenster.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -644,7 +644,7 @@
                     <Runway>
                         <Heading>05</Heading>
                         <Heading>23</Heading>
-                        <Appr href="file:///Aerodromes/neuchatel.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -662,7 +662,7 @@
                     <Runway>
                         <Heading>05</Heading>
                         <Heading>23</Heading>
-                        <Appr href="file:///Aerodromes/olten.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -680,7 +680,7 @@
                     <Runway>
                         <Heading>05</Heading>
                         <Heading>23</Heading>
-                        <Appr href="file:///Aerodromes/payerne.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -698,7 +698,7 @@
                     <Runway>
                         <Heading>10</Heading>
                         <Heading>28</Heading>
-                        <Appr href="file:///Aerodromes/raron.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -716,7 +716,7 @@
                     <Runway>
                         <Heading>22</Heading>
                         <Heading>04</Heading>
-                        <Appr href="file:///Aerodromes/reichenbach.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -734,7 +734,7 @@
                     <Runway>
                         <Heading>08</Heading>
                         <Heading>26</Heading>
-                        <Appr href="file:///Aerodromes/saanen.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -753,7 +753,7 @@
                     <Runway>
                         <Heading>21</Heading>
                         <Heading>03</Heading>
-                        <Appr href="file:///Aerodromes/samedan.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -771,7 +771,7 @@
                     <Runway>
                         <Heading>08</Heading>
                         <Heading>26</Heading>
-                        <Appr href="file:///Aerodromes/sanvittore.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -789,7 +789,7 @@
                     <Runway>
                         <Heading>07</Heading>
                         <Heading>25</Heading>
-                        <Appr href="file:///Aerodromes/schaffhausen.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -807,7 +807,7 @@
                     <Runway>
                         <Heading>16</Heading>
                         <Heading>34</Heading>
-                        <Appr href="file:///Aerodromes/schaenis.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -825,7 +825,7 @@
                     <Runway>
                         <Heading>07</Heading>
                         <Heading>25</Heading>
-                        <Appr href="file:///Aerodromes/sion.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -844,7 +844,7 @@
                     <Runway>
                         <Heading>08</Heading>
                         <Heading>26</Heading>
-                        <Appr href="file:///Aerodromes/sitterdorf.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -863,7 +863,7 @@
                     <Runway>
                         <Heading>12</Heading>
                         <Heading>30</Heading>
-                        <Appr href="file:///Aerodromes/speck-fehraltorf.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -883,7 +883,7 @@
                     <Runway>
                         <Heading>10</Heading>
                         <Heading>28</Heading>
-                        <Appr href="file:///Aerodromes/stgallen-altenrhein.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -903,7 +903,7 @@
                     <Runway>
                         <Heading>14</Heading>
                         <Heading>32</Heading>
-                        <Appr href="file:///Aerodromes/ststephan.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -923,7 +923,7 @@
                     <Runway>
                         <Heading>14</Heading>
                         <Heading>32</Heading>
-                        <Appr href="file:///Aerodromes/thun.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -943,7 +943,7 @@
                     <Runway>
                         <Heading>15</Heading>
                         <Heading>33</Heading>
-                        <Appr href="file:///Aerodromes/triengen.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -963,7 +963,7 @@
                     <Runway>
                         <Heading>08</Heading>
                         <Heading>26</Heading>
-                        <Appr href="file:///Aerodromes/wangen-lachen.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -983,7 +983,7 @@
                     <Runway>
                         <Heading>19</Heading>
                         <Heading>01</Heading>
-                        <Appr href="file:///Aerodromes/winterthur.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -1003,7 +1003,7 @@
                     <Runway>
                         <Heading>05</Heading>
                         <Heading>23</Heading>
-                        <Appr href="file:///Aerodromes/yverdon-les-bains.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -1023,7 +1023,7 @@
                     <Runway>
                         <Heading>17</Heading>
                         <Heading>35</Heading>
-                        <Appr href="file:///Aerodromes/zweisimmen.pdf" />
+                        
                     </Runway>
                 </Visual>
                 <Hazards>
