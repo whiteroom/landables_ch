@@ -4,8 +4,8 @@
            
             <version>
                 <title>Flugplatzdaten Segelflug CH</title>
-                <release>0.11</release>
-                <date>2018-03-11</date>
+                <release>0.20</release>
+                <date>2018-03-18</date>
             </version>
             <Airfield ctr="true" mil="true">
                 <Identifier icao="LSMA">Alpnach</Identifier>
@@ -14,7 +14,7 @@
                     <Frequency mode="info">134.125</Frequency>
                     <Frequency mode="twr">128.475</Frequency>
                 </Com>
-                <Long-Lat>045° 37.633N / 006° 19.750E</Long-Lat>
+                <Long-Lat>046° 56.630N / 008° 17.050E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>20</Heading>
@@ -32,7 +32,7 @@
                 <Com>
                     <Frequency mode="ad">118.525</Frequency>
                 </Com>
-                <Long-Lat>045° 55.850N / 006° 06.383E</Long-Lat>
+                <Long-Lat>046° 30.783N / 008° 41.367E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>11</Heading>
@@ -50,7 +50,7 @@
                 <Com>
                     <Frequency mode="ad">120.125</Frequency>
                 </Com>
-                <Long-Lat>046° 11.516N / 006° 16.133E</Long-Lat>
+                <Long-Lat>047° 34.450N / 009° 02.850E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>09</Heading>
@@ -68,7 +68,7 @@
                 <Com>
                     <Frequency mode="ad">123.500</Frequency>
                 </Com>
-                <Long-Lat>044° 31.083N / 005° 44.150E</Long-Lat>
+                <Long-Lat>047° 00.900N / 009° 28.917E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>12</Heading>
@@ -86,7 +86,7 @@
                 <Com>
                     <Frequency mode="ad">122.375</Frequency>
                 </Com>
-                <Long-Lat>044° 41.783N / 005° 09.250E</Long-Lat>
+                <Long-Lat>046° 58.767N / 007° 07.950E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>08</Heading>
@@ -106,7 +106,7 @@
                     <Frequency mode="twr">121.025</Frequency>
                     <Frequency mode="gld">123.400</Frequency>
                 </Com>
-                <Long-Lat>044° 41.350N / 005° 24.550E</Long-Lat>
+                <Long-Lat>046° 54.733N / 007° 29.950E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>14</Heading>
@@ -124,7 +124,7 @@
                 <Com>
                     <Frequency mode="ad">123.500</Frequency>
                 </Com>
-                <Long-Lat>045° 37.633N / 006° 19.750E</Long-Lat>
+                <Long-Lat>046° 15.500N / 006° 59.183E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>15</Heading>
@@ -142,7 +142,7 @@
                 <Com>
                     <Frequency mode="ad">123.500</Frequency>
                 </Com>
-                <Long-Lat>045° 55.850N / 006° 06.383E</Long-Lat>
+                <Long-Lat>047° 05.350N / 007° 17.400E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>05</Heading>
@@ -161,7 +161,7 @@
                     <Frequency mode="ad">123.550</Frequency>
                     <Frequency mode="gld">119.825</Frequency>
                 </Com>
-                <Long-Lat>046° 11.516N / 006° 16.133E</Long-Lat>
+                <Long-Lat>047° 26.600N / 008° 14.033E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>08</Heading>
@@ -179,7 +179,7 @@
                 <Com>
                     <Frequency mode="ad">122.050</Frequency>
                 </Com>
-                <Long-Lat>044° 31.083N / 005° 44.150E</Long-Lat>
+                <Long-Lat>047° 23.550N / 007° 01.733E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>07</Heading>
@@ -198,7 +198,7 @@
                     <Frequency mode="info">134.125</Frequency>
                     <Frequency mode="twr">119.625</Frequency>
                 </Com>
-                <Long-Lat>044° 41.783N / 005° 09.250E</Long-Lat>
+                <Long-Lat>046° 58.467N / 008° 23.817E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>07</Heading>
@@ -216,7 +216,7 @@
                 <Com>
                     <Frequency mode="ad">122.150</Frequency>
                 </Com>
-                <Long-Lat>044° 41.350N / 005° 24.550E</Long-Lat>
+                <Long-Lat>047° 15.883N / 008° 18.150E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>16</Heading>
@@ -234,7 +234,7 @@
                 <Com>
                     <Frequency mode="ad">124.600</Frequency>
                 </Com>
-                <Long-Lat>045° 37.633N / 006° 19.750E</Long-Lat>
+                <Long-Lat>047° 11.017N / 007° 05.450E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>06</Heading>
@@ -252,7 +252,7 @@
                 <Com>
                     <Frequency mode="ad">118.175</Frequency>
                 </Com>
-                <Long-Lat>045° 55.850N / 006° 06.383E</Long-Lat>
+                <Long-Lat>047° 26.317N / 007° 29.483E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>11</Heading>
@@ -270,11 +270,11 @@
                 <Com>
                     <Frequency mode="ad">120.625</Frequency>
                 </Com>
-                <Long-Lat>046° 11.516N / 006° 16.133E</Long-Lat>
+                <Long-Lat>046° 45.300N / 007° 4.567E</Long-Lat>
                 <Visual>
                     <Runway>
-                        <Heading>10</Heading>
-                        <Heading>28</Heading>
+                        <Heading>09</Heading>
+                        <Heading>27</Heading>
                         
                     </Runway>
                 </Visual>
@@ -289,7 +289,7 @@
                     <Frequency mode="info">134.125</Frequency>
                     <Frequency mode="twr">120.425</Frequency>
                 </Com>
-                <Long-Lat>044° 31.083N / 005° 44.150E</Long-Lat>
+                <Long-Lat>047° 05.530N / 005° 18.280E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>22</Heading>
@@ -307,7 +307,7 @@
                 <Com>
                     <Frequency mode="ad">119.550</Frequency>
                 </Com>
-                <Long-Lat>044° 41.783N / 005° 09.250E</Long-Lat>
+                <Long-Lat>047° 30.530N / 007° 57.000E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>07</Heading>
@@ -327,7 +327,7 @@
                     <Frequency mode="twr">120.100</Frequency>
                     <Frequency mode="gld">127.575</Frequency>
                 </Com>
-                <Long-Lat>044° 41.350N / 005° 24.550E</Long-Lat>
+                <Long-Lat>047° 10.880N / 007° 24.980E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>07</Heading>
@@ -345,7 +345,7 @@
                 <Com>
                     <Frequency mode="ad">124.675</Frequency>
                 </Com>
-                <Long-Lat>045° 37.633N / 006° 19.750E</Long-Lat>
+                <Long-Lat>046° 35.650N / 007° 05.670E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>17</Heading>
@@ -363,7 +363,7 @@
                 <Com>
                     <Frequency mode="ad">130.750</Frequency>
                 </Com>
-                <Long-Lat>045° 55.850N / 006° 06.383E</Long-Lat>
+                <Long-Lat>047° 14.320N / 008° 30.930E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>09</Heading>
@@ -382,7 +382,7 @@
                     <Frequency mode="info">134.125</Frequency>
                     <Frequency mode="twr">128.475</Frequency>
                 </Com>
-                <Long-Lat>046° 11.516N / 006° 16.133E</Long-Lat>
+                <Long-Lat>046° 54.450N / 008° 15.200E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>21</Heading>
@@ -400,7 +400,7 @@
                 <Com>
                     <Frequency mode="ad">123.650</Frequency>
                 </Com>
-                <Long-Lat>044° 31.083N / 005° 44.150E</Long-Lat>
+                <Long-Lat>046° 24.383N / 006° 15.483E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>22</Heading>
@@ -418,7 +418,7 @@
                 <Com>
                     <Frequency mode="ad">119.400</Frequency>
                 </Com>
-                <Long-Lat>044° 41.783N / 005° 09.250E</Long-Lat>
+                <Long-Lat>047° 10.970N / 007° 44.480E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>23</Heading>
@@ -437,7 +437,7 @@
                     <Frequency mode="info">118.825</Frequency>
                     <Frequency mode="ad">123.200</Frequency>
                 </Com>
-                <Long-Lat>044° 41.350N / 005° 24.550E</Long-Lat>
+                <Long-Lat>046° 32.720N / 006° 37.000E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>18</Heading>
@@ -455,7 +455,7 @@
                 <Com>
                     <Frequency mode="twr">118.125</Frequency>
                 </Com>
-                <Long-Lat>045° 37.633N / 006° 19.750E</Long-Lat>
+                <Long-Lat>047° 05.050N / 006° 47.620E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>24</Heading>
@@ -475,7 +475,7 @@
                     <Frequency mode="twr">134.825</Frequency>
                     <Frequency mode="gld">122.475</Frequency>
                 </Com>
-                <Long-Lat>045° 55.850N / 006° 06.383E</Long-Lat>
+                <Long-Lat>046° 09.650N / 008° 52.720E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>08</Heading>
@@ -494,7 +494,7 @@
                 <Com>
                     <Frequency mode="ad">119.625</Frequency>
                 </Com>
-                <Long-Lat>046° 11.516N / 006° 16.133E</Long-Lat>
+                <Long-Lat>046° 17.420N / 008° 59.520E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>16</Heading>
@@ -512,7 +512,7 @@
                 <Com>
                     <Frequency mode="ad">119.300</Frequency>
                 </Com>
-                <Long-Lat>044° 31.083N / 005° 44.150E</Long-Lat>
+                <Long-Lat>047° 31.470N / 009° 00.180E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>24</Heading>
@@ -530,7 +530,7 @@
                 <Com>
                     <Frequency mode="ad">122.450</Frequency>
                 </Com>
-                <Long-Lat>044° 41.783N / 005° 09.250E</Long-Lat>
+                <Long-Lat>047° 11.400N / 008° 12.280E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>16</Heading>
@@ -548,7 +548,7 @@
                 <Com>
                     <Frequency mode="twr">130.150</Frequency>
                 </Com>
-                <Long-Lat>044° 41.350N / 005° 24.550E</Long-Lat>
+                <Long-Lat>046° 44.530N / 008° 06.530E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>10</Heading>
@@ -566,7 +566,7 @@
                 <Com>
                     <Frequency mode="ad">134.825</Frequency>
                 </Com>
-                <Long-Lat>045° 37.633N / 006° 19.750E</Long-Lat>
+                <Long-Lat>047° 04.720N / 009° 03.900E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>19</Heading>
@@ -585,7 +585,7 @@
                 <Com>
                     <Frequency mode="ad">133.200</Frequency>
                 </Com>
-                <Long-Lat>045° 55.850N / 006° 06.383E</Long-Lat>
+                <Long-Lat>046° 35.420N / 006° 24.030E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>21</Heading>
@@ -603,7 +603,7 @@
                 <Com>
                     <Frequency mode="ad">126.650</Frequency>
                 </Com>
-                <Long-Lat>046° 11.516N / 006° 16.133E</Long-Lat>
+                <Long-Lat>046° 55.000N / 006° 36.900E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>05</Heading>
@@ -621,7 +621,7 @@
                 <Com>
                     <Frequency mode="ad">122.075</Frequency>
                 </Com>
-                <Long-Lat>044° 31.083N / 005° 44.150E</Long-Lat>
+                <Long-Lat>046° 28.820N / 008° 15.800E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>05</Heading>
@@ -639,7 +639,7 @@
                 <Com>
                     <Frequency mode="ad">123.600</Frequency>
                 </Com>
-                <Long-Lat>044° 41.783N / 005° 09.250E</Long-Lat>
+                <Long-Lat>046° 57.450N / 006° 51.880E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>05</Heading>
@@ -657,7 +657,7 @@
                 <Com>
                     <Frequency mode="ad">118.775</Frequency>
                 </Com>
-                <Long-Lat>044° 41.350N / 005° 24.550E</Long-Lat>
+                <Long-Lat>047° 20.670N / 007° 53.370E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>05</Heading>
@@ -675,7 +675,7 @@
                 <Com>
                     <Frequency mode="twr">128.675</Frequency>
                 </Com>
-                <Long-Lat>045° 37.633N / 006° 19.750E</Long-Lat>
+                <Long-Lat>046° 50.600N / 006° 54.900E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>05</Heading>
@@ -693,7 +693,7 @@
                 <Com>
                     <Frequency mode="ad">126.975</Frequency>
                 </Com>
-                <Long-Lat>045° 55.850N / 006° 06.383E</Long-Lat>
+                <Long-Lat>046° 18.270N / 007° 49.300E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>10</Heading>
@@ -711,7 +711,7 @@
                 <Com>
                     <Frequency mode="ad">127.700</Frequency>
                 </Com>
-                <Long-Lat>046° 11.516N / 006° 16.133E</Long-Lat>
+                <Long-Lat>046° 36.820N / 007° 40.670E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>22</Heading>
@@ -729,7 +729,7 @@
                 <Com>
                     <Frequency mode="ad">119.425</Frequency>
                 </Com>
-                <Long-Lat>044° 31.083N / 005° 44.150E</Long-Lat>
+                <Long-Lat>046° 29.180N / 007° 14.920E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>08</Heading>
@@ -748,7 +748,7 @@
                     <Frequency mode="atis">136.600</Frequency>
                     <Frequency mode="afis">135.325</Frequency>
                 </Com>
-                <Long-Lat>044° 41.783N / 005° 09.250E</Long-Lat>
+                <Long-Lat>046° 32.067N / 009° 53.033E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>21</Heading>
@@ -766,7 +766,7 @@
                 <Com>
                     <Frequency mode="atis">122.075</Frequency>
                 </Com>
-                <Long-Lat>044° 41.350N / 005° 24.550E</Long-Lat>
+                <Long-Lat>046° 14.028N / 009° 05.655E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>08</Heading>
@@ -784,7 +784,7 @@
                 <Com>
                     <Frequency mode="ad">121.050</Frequency>
                 </Com>
-                <Long-Lat>045° 37.633N / 006° 19.750E</Long-Lat>
+                <Long-Lat>047° 41.430N / 008° 31.620E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>07</Heading>
@@ -820,7 +820,7 @@
                 <Com>
                     <Frequency mode="twr">118.275</Frequency>
                 </Com>
-                <Long-Lat>046° 11.516N / 006° 16.133E</Long-Lat>
+                <Long-Lat>047° 10.300N / 009° 02.370E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>07</Heading>
@@ -839,7 +839,7 @@
                 <Com>
                     <Frequency mode="ad">118.350</Frequency>
                 </Com>
-                <Long-Lat>044° 31.083N / 005° 44.150E</Long-Lat>
+                <Long-Lat>047° 30.530N / 009° 15.770E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>08</Heading>
@@ -858,7 +858,7 @@
                 <Com>
                     <Frequency mode="ad">120.350</Frequency>
                 </Com>
-                <Long-Lat>044° 41.783N / 005° 09.250E</Long-Lat>
+                <Long-Lat>047° 22.580N / 008° 45.450E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>12</Heading>
@@ -878,7 +878,7 @@
                     <Frequency mode="twr">135.425</Frequency>
                     <Frequency mode="gld">120.175</Frequency>
                 </Com>
-                <Long-Lat>044° 41.350N / 005° 24.550E</Long-Lat>
+                <Long-Lat>047° 29.100N / 009° 33.720E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>10</Heading>
@@ -898,7 +898,7 @@
                 <Com>
                     <Frequency mode="ad">120.050</Frequency>
                 </Com>
-                <Long-Lat>044° 41.350N / 005° 24.550E</Long-Lat>
+                <Long-Lat>046° 29.920N / 007° 24.780E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>14</Heading>
@@ -918,7 +918,7 @@
                 <Com>
                     <Frequency mode="gld">123.250</Frequency>
                 </Com>
-                <Long-Lat>044° 41.350N / 005° 24.550E</Long-Lat>
+                <Long-Lat>046° 45.380N / 007° 36.030E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>14</Heading>
@@ -938,7 +938,7 @@
                 <Com>
                     <Frequency mode="ad">124.525</Frequency>
                 </Com>
-                <Long-Lat>044° 41.350N / 005° 24.550E</Long-Lat>
+                <Long-Lat>047° 13.600N / 008° 04.680E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>15</Heading>
@@ -958,7 +958,7 @@
                 <Com>
                     <Frequency mode="ad">123.200</Frequency>
                 </Com>
-                <Long-Lat>044° 41.350N / 005° 24.550E</Long-Lat>
+                <Long-Lat>047° 12.280N / 008° 52.050E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>08</Heading>
@@ -978,7 +978,7 @@
                 <Com>
                     <Frequency mode="ad">134.975</Frequency>
                 </Com>
-                <Long-Lat>044° 41.350N / 005° 24.550E</Long-Lat>
+                <Long-Lat>047° 30.900N / 008° 46.320E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>19</Heading>
@@ -998,7 +998,7 @@
                 <Com>
                     <Frequency mode="ad">131.125</Frequency>
                 </Com>
-                <Long-Lat>044° 41.350N / 005° 24.550E</Long-Lat>
+                <Long-Lat>046° 45.720N / 006° 36.800E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>05</Heading>
@@ -1018,7 +1018,7 @@
                 <Com>
                     <Frequency mode="ad">121.225</Frequency>
                 </Com>
-                <Long-Lat>044° 41.350N / 005° 24.550E</Long-Lat>
+                <Long-Lat>046° 33.180N / 007° 22.370E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>17</Heading>
