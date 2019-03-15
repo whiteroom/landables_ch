@@ -7,7 +7,8 @@ Glider pilots in particular are prone to doubtful sources, often sharing unoffic
 
 landables_ch seeks to have swiss airfield data up to date.
 This is done with a novel approach by separating visual representation (PDF) from aeronautical information (XML).
-For the sake of simplicity Adobe Indesign is used to process data and to generated the output.
+For the sake of simplicity Adobe InDesign is used to process data and to generated the PDF output.
+In order to keep backwards compatibility high, the InDesign document is kept in a CS6 Version.
 
 landables_ch uses a lot of spadework courtesy of A. Spinnler
 
@@ -23,8 +24,8 @@ See <a href="https://github.com/whiteroom/landables_ch/issues">
             alt="Issues"></a>
 
 
-- If you found any problems, please report on issues page.
-- If you made any change, send me pull request.
+- If you find any problems, please report on issues page.
+- If you have made any changes, send me a pull request.
 
 
 ### License
