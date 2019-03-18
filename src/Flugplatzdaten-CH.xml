@@ -11,7 +11,7 @@
                 <Identifier icao="LSMA">Alpnach</Identifier>
                 <Elevation>440m MSL</Elevation>
                 <Com>
-                    <Frequency mode="info">134.125</Frequency>
+                    <Frequency mode="info">134.130</Frequency>
                     <Frequency mode="twr">128.475</Frequency>
                 </Com>
                 <Long-Lat>046° 56.630N / 008° 17.050E</Long-Lat>
@@ -30,7 +30,7 @@
                 <Identifier icao="LSPM">Ambrì</Identifier>
                 <Elevation>988 MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">118.525</Frequency>
+                    <Frequency mode="ad">118.530</Frequency>
                 </Com>
                 <Long-Lat>046° 30.783N / 008° 41.367E</Long-Lat>
                 <Visual>
@@ -48,7 +48,7 @@
                 <Identifier icao="LSPA">Amlikon</Identifier>
                 <Elevation>417m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">120.125</Frequency>
+                    <Frequency mode="ad">120.130</Frequency>
                 </Com>
                 <Long-Lat>047° 34.450N / 009° 02.850E</Long-Lat>
                 <Visual>
@@ -66,7 +66,7 @@
                 <Identifier icao="LSZE">Bad Ragaz</Identifier>
                 <Elevation>493m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">123.500</Frequency>
+                    <Frequency mode="ad">123.505</Frequency>
                 </Com>
                 <Long-Lat>047° 00.900N / 009° 28.917E</Long-Lat>
                 <Visual>
@@ -84,7 +84,7 @@
                 <Identifier icao="LSTB">Bellechasse</Identifier>
                 <Elevation>433m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">122.375</Frequency>
+                    <Frequency mode="ad">122.380</Frequency>
                 </Com>
                 <Long-Lat>046° 58.767N / 007° 07.950E</Long-Lat>
                 <Visual>
@@ -102,9 +102,9 @@
                 <Identifier icao="LSZB">Bern-Belp</Identifier>
                 <Elevation>510m MSL</Elevation>
                 <Com>
-                    <Frequency mode="atis">123.125</Frequency>
+                    <Frequency mode="atis">123.130</Frequency>
                     <Frequency mode="twr">121.025</Frequency>
-                    <Frequency mode="gld">123.400</Frequency>
+                    <Frequency mode="gld">123.405</Frequency>
                 </Com>
                 <Long-Lat>046° 54.733N / 007° 29.950E</Long-Lat>
                 <Visual>
@@ -122,7 +122,7 @@
                 <Identifier icao="LSGB">Bex</Identifier>
                 <Elevation>400m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">123.500</Frequency>
+                    <Frequency mode="ad">122.155</Frequency>
                 </Com>
                 <Long-Lat>046° 15.500N / 006° 59.183E</Long-Lat>
                 <Visual>
@@ -140,7 +140,7 @@
                 <Identifier icao="LSZP">Biel-Kappelen</Identifier>
                 <Elevation>438 MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">123.500</Frequency>
+                    <Frequency mode="ad">123.155</Frequency>
                 </Com>
                 <Long-Lat>047° 05.350N / 007° 17.400E</Long-Lat>
                 <Visual>
@@ -158,8 +158,8 @@
                 <Identifier icao="LSZF">Birrfeld</Identifier>
                 <Elevation>396m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">123.550</Frequency>
-                    <Frequency mode="gld">119.825</Frequency>
+                    <Frequency mode="ad">123.555</Frequency>
+                    <Frequency mode="gld">119.830</Frequency>
                 </Com>
                 <Long-Lat>047° 26.600N / 008° 14.033E</Long-Lat>
                 <Visual>
@@ -177,7 +177,7 @@
                 <Identifier icao="LSZQ">Bressaucourt</Identifier>
                 <Elevation>568m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">122.050</Frequency>
+                    <Frequency mode="ad">122.055</Frequency>
                 </Com>
                 <Long-Lat>047° 23.550N / 007° 01.733E</Long-Lat>
                 <Visual>
@@ -195,7 +195,7 @@
                 <Identifier icao="LSZC">Buochs</Identifier>
                 <Elevation>450m MSL</Elevation>
                 <Com>
-                    <Frequency mode="info">134.125</Frequency>
+                    <Frequency mode="info">134.130</Frequency>
                     <Frequency mode="twr">119.625</Frequency>
                 </Com>
                 <Long-Lat>046° 58.467N / 008° 23.817E</Long-Lat>
@@ -214,7 +214,7 @@
                 <Identifier icao="LSZU">Buttwil</Identifier>
                 <Elevation>723m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">122.150</Frequency>
+                    <Frequency mode="ad">122.155</Frequency>
                 </Com>
                 <Long-Lat>047° 15.883N / 008° 18.150E</Long-Lat>
                 <Visual>
@@ -232,7 +232,7 @@
                 <Identifier icao="LSZJ">Courtelary</Identifier>
                 <Elevation>685m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">124.600</Frequency>
+                    <Frequency mode="ad">124.606</Frequency>
                 </Com>
                 <Long-Lat>047° 11.017N / 007° 05.450E</Long-Lat>
                 <Visual>
@@ -250,7 +250,7 @@
                 <Identifier icao="LSPD">Dittingen</Identifier>
                 <Elevation>536 MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">118.175</Frequency>
+                    <Frequency mode="ad">118.180</Frequency>
                 </Com>
                 <Long-Lat>047° 26.317N / 007° 29.483E</Long-Lat>
                 <Visual>
@@ -268,7 +268,7 @@
                 <Identifier icao="LSGE">Ecuvillens</Identifier>
                 <Elevation>700m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">120.625</Frequency>
+                    <Frequency mode="ad">120.630</Frequency>
                 </Com>
                 <Long-Lat>046° 45.300N / 007° 4.567E</Long-Lat>
                 <Visual>
@@ -305,7 +305,7 @@
                 <Identifier icao="LSZI">Fricktal-Schupfart</Identifier>
                 <Elevation>545m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">119.550</Frequency>
+                    <Frequency mode="ad">119.555</Frequency>
                 </Com>
                 <Long-Lat>047° 30.530N / 007° 57.000E</Long-Lat>
                 <Visual>
@@ -343,7 +343,7 @@
                 <Identifier icao="LSGT">Gruyères</Identifier>
                 <Elevation>688m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">124.675</Frequency>
+                    <Frequency mode="ad">124.680</Frequency>
                 </Com>
                 <Long-Lat>046° 35.650N / 007° 05.670E</Long-Lat>
                 <Visual>
@@ -361,7 +361,7 @@
                 <Identifier icao="LSZN">Hausen a/A</Identifier>
                 <Elevation>590 MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">130.750</Frequency>
+                    <Frequency mode="ad">130.755</Frequency>
                 </Com>
                 <Long-Lat>047° 14.320N / 008° 30.930E</Long-Lat>
                 <Visual>
@@ -379,7 +379,7 @@
                 <Identifier icao="LSPG">Kägiswil</Identifier>
                 <Elevation>465m MSL</Elevation>
                 <Com>
-                    <Frequency mode="info">134.125</Frequency>
+                    <Frequency mode="info">134.130</Frequency>
                     <Frequency mode="twr">128.475</Frequency>
                 </Com>
                 <Long-Lat>046° 54.450N / 008° 15.200E</Long-Lat>
@@ -398,7 +398,7 @@
                 <Identifier icao="LSGP">La Côte</Identifier>
                 <Elevation>412m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">123.650</Frequency>
+                    <Frequency mode="ad">123.655</Frequency>
                 </Com>
                 <Long-Lat>046° 24.383N / 006° 15.483E</Long-Lat>
                 <Visual>
@@ -416,7 +416,7 @@
                 <Identifier icao="LSPL">Langenthal</Identifier>
                 <Elevation>480m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">119.400</Frequency>
+                    <Frequency mode="ad">119.405</Frequency>
                 </Com>
                 <Long-Lat>047° 10.970N / 007° 44.480E</Long-Lat>
                 <Visual>
@@ -434,8 +434,8 @@
                 <Identifier icao="LSGL">Lausanne-La Blécherette</Identifier>
                 <Elevation>623m MSL</Elevation>
                 <Com>
-                    <Frequency mode="info">118.825</Frequency>
-                    <Frequency mode="ad">123.200</Frequency>
+                    <Frequency mode="info">118.830</Frequency>
+                    <Frequency mode="ad">123.205</Frequency>
                 </Com>
                 <Long-Lat>046° 32.720N / 006° 37.000E</Long-Lat>
                 <Visual>
@@ -471,9 +471,9 @@
                 <Identifier icao="LSZL">Locarno</Identifier>
                 <Elevation>198 MSL</Elevation>
                 <Com>
-                    <Frequency mode="atis">133.450</Frequency>
+                    <Frequency mode="atis">133.455</Frequency>
                     <Frequency mode="twr">134.825</Frequency>
-                    <Frequency mode="gld">122.475</Frequency>
+                    <Frequency mode="gld">122.480</Frequency>
                 </Com>
                 <Long-Lat>046° 09.650N / 008° 52.720E</Long-Lat>
                 <Visual>
@@ -510,7 +510,7 @@
                 <Identifier icao="LSZT">Lommis</Identifier>
                 <Elevation>469m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">119.300</Frequency>
+                    <Frequency mode="ad">119.305</Frequency>
                 </Com>
                 <Long-Lat>047° 31.470N / 009° 00.180E</Long-Lat>
                 <Visual>
@@ -528,7 +528,7 @@
                 <Identifier icao="LSZO">Luzern-Beromünster</Identifier>
                 <Elevation>654m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">122.450</Frequency>
+                    <Frequency mode="ad">122.455</Frequency>
                 </Com>
                 <Long-Lat>047° 11.400N / 008° 12.280E</Long-Lat>
                 <Visual>
@@ -564,7 +564,7 @@
                 <Identifier icao="LSMF">Mollis</Identifier>
                 <Elevation>447m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">134.825</Frequency>
+                    <Frequency mode="ad">134.830</Frequency>
                 </Com>
                 <Long-Lat>047° 04.720N / 009° 03.900E</Long-Lat>
                 <Visual>
@@ -583,7 +583,7 @@
                 <Identifier icao="LSTR">Montricher</Identifier>
                 <Elevation>664 MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">133.200</Frequency>
+                    <Frequency mode="ad">133.205</Frequency>
                 </Com>
                 <Long-Lat>046° 35.420N / 006° 24.030E</Long-Lat>
                 <Visual>
@@ -601,7 +601,7 @@
                 <Identifier icao="LSTO">Môtiers</Identifier>
                 <Elevation>732m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">126.650</Frequency>
+                    <Frequency mode="ad">126.655</Frequency>
                 </Com>
                 <Long-Lat>046° 55.000N / 006° 36.900E</Long-Lat>
                 <Visual>
@@ -619,7 +619,7 @@
                 <Identifier icao="LSPU">Münster</Identifier>
                 <Elevation>1328m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">122.075</Frequency>
+                    <Frequency mode="ad">122.080</Frequency>
                 </Com>
                 <Long-Lat>046° 28.820N / 008° 15.800E</Long-Lat>
                 <Visual>
@@ -637,7 +637,7 @@
                 <Identifier icao="LSGN">Neuchâtel</Identifier>
                 <Elevation>435m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">123.600</Frequency>
+                    <Frequency mode="ad">123.605</Frequency>
                 </Com>
                 <Long-Lat>046° 57.450N / 006° 51.880E</Long-Lat>
                 <Visual>
@@ -655,7 +655,7 @@
                 <Identifier icao="LSPO">Olten</Identifier>
                 <Elevation>416m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">118.775</Frequency>
+                    <Frequency mode="ad">118.780</Frequency>
                 </Com>
                 <Long-Lat>047° 20.670N / 007° 53.370E</Long-Lat>
                 <Visual>
@@ -688,10 +688,10 @@
                     <para value="false" /> </Hazards>
             </Airfield>
             <Airfield ppr="true" hel="true">
-                <Identifier icao="LSER">Raron</Identifier>
+                <Identifier icao="LSTA">Raron</Identifier>
                 <Elevation>636 MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">126.975</Frequency>
+                    <Frequency mode="ad">129.880</Frequency>
                 </Com>
                 <Long-Lat>046° 18.270N / 007° 49.300E</Long-Lat>
                 <Visual>
@@ -709,7 +709,7 @@
                 <Identifier icao="LSGR">Reichenbach</Identifier>
                 <Elevation>723m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">127.700</Frequency>
+                    <Frequency mode="ad">127.705</Frequency>
                 </Com>
                 <Long-Lat>046° 36.820N / 007° 40.670E</Long-Lat>
                 <Visual>
@@ -727,7 +727,7 @@
                 <Identifier icao="LSGK">Saanen</Identifier>
                 <Elevation>1008m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">119.425</Frequency>
+                    <Frequency mode="ad">119.430</Frequency>
                 </Com>
                 <Long-Lat>046° 29.180N / 007° 14.920E</Long-Lat>
                 <Visual>
@@ -782,7 +782,7 @@
                 <Identifier icao="LSPF">Schaffhausen</Identifier>
                 <Elevation>463m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">121.050</Frequency>
+                    <Frequency mode="ad">121.055</Frequency>
                 </Com>
                 <Long-Lat>047° 41.430N / 008° 31.620E</Long-Lat>
                 <Visual>
@@ -800,7 +800,7 @@
                 <Identifier icao="LSZX">Schänis</Identifier>
                 <Elevation>416 MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">120.600</Frequency>
+                    <Frequency mode="ad">120.805</Frequency>
                 </Com>
                 <Long-Lat>045° 55.850N / 006° 06.383E</Long-Lat>
                 <Visual>
@@ -818,7 +818,9 @@
                 <Identifier icao="LSGS">Sion</Identifier>
                 <Elevation>482m MSL</Elevation>
                 <Com>
+                    <Frequency mode="atis">130.630</Frequency>
                     <Frequency mode="twr">118.275</Frequency>
+                    <Frequency mode="gld">118.275</Frequency>
                 </Com>
                 <Long-Lat>047° 10.300N / 009° 02.370E</Long-Lat>
                 <Visual>
@@ -837,7 +839,7 @@
                 <Identifier icao="LSZV">Sitterdorf</Identifier>
                 <Elevation>506m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">118.350</Frequency>
+                    <Frequency mode="ad">118.355</Frequency>
                 </Com>
                 <Long-Lat>047° 30.530N / 009° 15.770E</Long-Lat>
                 <Visual>
@@ -856,7 +858,7 @@
                 <Identifier icao="LSZK">Speck-Fehraltorf</Identifier>
                 <Elevation>536m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">120.350</Frequency>
+                    <Frequency mode="ad">120.355</Frequency>
                 </Com>
                 <Long-Lat>047° 22.580N / 008° 45.450E</Long-Lat>
                 <Visual>
@@ -874,9 +876,9 @@
                 <Identifier icao="LSZR">St. Gallen-Altenrhein</Identifier>
                 <Elevation>398m MSL</Elevation>
                 <Com>
-                    <Frequency mode="atis">123.775</Frequency>
-                    <Frequency mode="twr">135.425</Frequency>
-                    <Frequency mode="gld">120.175</Frequency>
+                    <Frequency mode="atis">123.780</Frequency>
+                    <Frequency mode="twr">135.430</Frequency>
+                    <Frequency mode="gld">120.180</Frequency>
                 </Com>
                 <Long-Lat>047° 29.100N / 009° 33.720E</Long-Lat>
                 <Visual>
@@ -896,7 +898,7 @@
                 <Identifier icao="LSTS">St. Stephan</Identifier>
                 <Elevation>1007m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">120.050</Frequency>
+                    <Frequency mode="ad">120.055</Frequency>
                 </Com>
                 <Long-Lat>046° 29.920N / 007° 24.780E</Long-Lat>
                 <Visual>
@@ -916,7 +918,7 @@
                 <Identifier icao="LSZW">Thun</Identifier>
                 <Elevation>560m MSL</Elevation>
                 <Com>
-                    <Frequency mode="gld">123.250</Frequency>
+                    <Frequency mode="gld">123.255</Frequency>
                 </Com>
                 <Long-Lat>046° 45.380N / 007° 36.030E</Long-Lat>
                 <Visual>
@@ -936,7 +938,7 @@
                 <Identifier icao="LSPN">Triengen</Identifier>
                 <Elevation>486m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">124.525</Frequency>
+                    <Frequency mode="ad">124.530</Frequency>
                 </Com>
                 <Long-Lat>047° 13.600N / 008° 04.680E</Long-Lat>
                 <Visual>
@@ -956,7 +958,7 @@
                 <Identifier icao="LSPV">Wangen-Lachen</Identifier>
                 <Elevation>407m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">123.200</Frequency>
+                    <Frequency mode="ad">123.205</Frequency>
                 </Com>
                 <Long-Lat>047° 12.280N / 008° 52.050E</Long-Lat>
                 <Visual>
@@ -976,7 +978,7 @@
                 <Identifier icao="LSPH">Winterthur</Identifier>
                 <Elevation>457m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">134.975</Frequency>
+                    <Frequency mode="ad">134.980</Frequency>
                 </Com>
                 <Long-Lat>047° 30.900N / 008° 46.320E</Long-Lat>
                 <Visual>
@@ -996,7 +998,7 @@
                 <Identifier icao="LSGY">Yverdon-Les-Bains</Identifier>
                 <Elevation>433m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">131.125</Frequency>
+                    <Frequency mode="ad">131.130</Frequency>
                 </Com>
                 <Long-Lat>046° 45.720N / 006° 36.800E</Long-Lat>
                 <Visual>
@@ -1016,7 +1018,7 @@
                 <Identifier icao="LSTZ">Zweisimmen</Identifier>
                 <Elevation>933m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">121.225</Frequency>
+                    <Frequency mode="ad">121.230</Frequency>
                 </Com>
                 <Long-Lat>046° 33.180N / 007° 22.370E</Long-Lat>
                 <Visual>
@@ -1033,3 +1035,5 @@
             </Airfield>
             
         </Root>
+
+        
