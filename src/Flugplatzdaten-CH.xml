@@ -102,7 +102,7 @@
                 <Identifier icao="LSZB">Bern-Belp</Identifier>
                 <Elevation>510m MSL</Elevation>
                 <Com>
-                    <Frequency mode="atis">123.130</Frequency>
+                    <Frequency mode="atis">125.130</Frequency>
                     <Frequency mode="twr">121.025</Frequency>
                     <Frequency mode="gld">123.405</Frequency>
                 </Com>
@@ -232,7 +232,7 @@
                 <Identifier icao="LSZJ">Courtelary</Identifier>
                 <Elevation>685m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">124.606</Frequency>
+                    <Frequency mode="ad">124.605</Frequency>
                 </Com>
                 <Long-Lat>047° 11.017N / 007° 05.450E</Long-Lat>
                 <Visual>
@@ -800,7 +800,7 @@
                 <Identifier icao="LSZX">Schänis</Identifier>
                 <Elevation>416 MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">120.805</Frequency>
+                    <Frequency mode="ad">120.605</Frequency>
                 </Com>
                 <Long-Lat>045° 55.850N / 006° 06.383E</Long-Lat>
                 <Visual>
