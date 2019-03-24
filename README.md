@@ -14,7 +14,7 @@ landables_ch uses a lot of spadework courtesy of A. Spinnler
 
 
 ### Installation
-No installation needed, find PDF in dist
+No installation needed, find PDF in dist, print pdf booklet on DIN A4 and you're done
 
 
 ### Contributing
