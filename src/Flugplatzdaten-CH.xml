@@ -4,8 +4,8 @@
            
             <version>
                 <title>Flugplatzdaten Segelflug CH</title>
-                <release>1.03</release>
-                <date>2019-03-24</date>
+                <release>1.04</release>
+                <date>2019-03-27</date>
             </version>
             <Airfield ppr="true" ctr="true" mil="true">
                 <Identifier icao="LSMA">Alpnach</Identifier>
@@ -286,7 +286,7 @@
                 <Identifier icao="LSME">Emmen</Identifier>
                 <Elevation>427m MSL</Elevation>
                 <Com>
-                    <Frequency mode="info">134.125</Frequency>
+                    <Frequency mode="info">134.130</Frequency>
                     <Frequency mode="twr">120.425</Frequency>
                 </Com>
                 <Long-Lat>047° 05.530N / 005° 18.280E</Long-Lat>
