@@ -134,7 +134,7 @@
                 </Visual>
                 <Hazards>
                     <glider value="true" />
-                    <para value="false" /> </Hazards>
+                    <para value="true" /> </Hazards>
             </Airfield>
             <Airfield ppr="true">
                 <Identifier icao="LSZP">Biel-Kappelen</Identifier>
