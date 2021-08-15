@@ -561,7 +561,7 @@
                     <para value="false" /> </Hazards>
             </Airfield>
             <Airfield ppr="true" mil="true" civ="true">
-                <Identifier icao="LSMF">Mollis</Identifier>
+                <Identifier icao="LSZM">Mollis</Identifier>
                 <Elevation>447m MSL</Elevation>
                 <Com>
                     <Frequency mode="ad">134.830</Frequency>
@@ -820,7 +820,7 @@
                 <Com>
                     <Frequency mode="atis">130.630</Frequency>
                     <Frequency mode="twr">118.275</Frequency>
-                    <Frequency mode="gld">118.275</Frequency>
+                    <Frequency mode="gld">123.680</Frequency>
                 </Com>
                 <Long-Lat>047° 10.300N / 009° 02.370E</Long-Lat>
                 <Visual>
