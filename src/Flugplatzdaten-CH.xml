@@ -1033,5 +1033,44 @@
                     <para value="false" />
                 </Hazards>
             </Airfield>
+
+            <Airfield ctr="true" mil="false" civ="true">
+                <Identifier icao="LFSB">Bale-Mulhouse</Identifier>
+                <Elevation>270m MSL</Elevation>
+                <Com>
+                    <Frequency mode="fis tma t1-t3">134.680</Frequency>
+                    <Frequency mode="info">130.900</Frequency>
+                </Com>
+                <Long-Lat>047° 35.231N / 007° 31.421E</Long-Lat>
+                <Hazards>
+                    <glider value="false" />
+                    <para value="false" /> </Hazards>
+            </Airfield>
+            <Airfield ctr="true" mil="false" civ="true">
+                <Identifier icao="LSGG">Geneva</Identifier>
+                <Elevation>430m MSL</Elevation>
+                <Com>
+                    <Frequency mode="gld atis">124.755</Frequency>
+                    <Frequency mode="alps radar">119.175</Frequency>
+                    <Frequency mode="info">126.350</Frequency>
+                </Com>
+                <Long-Lat>046° 14.269N / 006° 6.487E</Long-Lat>
+                <Hazards>
+                    <glider value="false" />
+                    <para value="false" /> </Hazards>
+            </Airfield>
+            <Airfield ctr="true" mil="false" civ="true">
+                <Identifier icao="LSZH">Zurich</Identifier>
+                <Elevation>432m MSL</Elevation>
+                <Com>
+                    <Frequency mode="gld info">120.880</Frequency>
+                    <Frequency mode="alps radar">119.225</Frequency>
+                    <Frequency mode="info">124.700</Frequency>
+                </Com>
+                <Long-Lat>047° 27.564N / 008° 32.558E</Long-Lat>
+                <Hazards>
+                    <glider value="false" />
+                    <para value="false" /> </Hazards>
+            </Airfield>
             
         </Root>
