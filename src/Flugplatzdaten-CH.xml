@@ -287,14 +287,13 @@
                 <Elevation>427m MSL</Elevation>
                 <Com>
                     <Frequency mode="info">134.130</Frequency>
-                    <Frequency mode="twr">120.425</Frequency>
+                    <Frequency mode="twr">118.000</Frequency>
                 </Com>
                 <Long-Lat>047° 05.530N / 005° 18.280E</Long-Lat>
                 <Visual>
                     <Runway>
                         <Heading>22</Heading>
                         <Heading>04</Heading>
-                        
                     </Runway>
                 </Visual>
                 <Hazards>
@@ -323,9 +322,9 @@
                 <Identifier icao="LSZG">Grenchen</Identifier>
                 <Elevation>430m MSL</Elevation>
                 <Com>
-                    <Frequency mode="atis">121.100</Frequency>
-                    <Frequency mode="twr">120.100</Frequency>
-                    <Frequency mode="gld">127.575</Frequency>
+                    <Frequency mode="atis">121.105</Frequency>
+                    <Frequency mode="twr">120.105</Frequency>
+                    <Frequency mode="gld">127.580</Frequency>
                 </Com>
                 <Long-Lat>047° 10.880N / 007° 24.980E</Long-Lat>
                 <Visual>
@@ -747,6 +746,7 @@
                 <Com>
                     <Frequency mode="atis">136.600</Frequency>
                     <Frequency mode="afis">135.325</Frequency>
+                    <Frequency mode="gld">123.675</Frequency>
                 </Com>
                 <Long-Lat>046° 32.067N / 009° 53.033E</Long-Lat>
                 <Visual>
@@ -898,7 +898,8 @@
                 <Identifier icao="LSTS">St. Stephan</Identifier>
                 <Elevation>1007m MSL</Elevation>
                 <Com>
-                    <Frequency mode="ad">120.055</Frequency>
+                    <Frequency mode="afis">119.425</Frequency>
+                    <Frequency mode="twr">120.055</Frequency>
                 </Com>
                 <Long-Lat>046° 29.920N / 007° 24.780E</Long-Lat>
                 <Visual>
@@ -918,7 +919,7 @@
                 <Identifier icao="LSZW">Thun</Identifier>
                 <Elevation>560m MSL</Elevation>
                 <Com>
-                    <Frequency mode="gld">123.255</Frequency>
+                    <Frequency mode="ad">123.255</Frequency>
                 </Com>
                 <Long-Lat>046° 45.380N / 007° 36.030E</Long-Lat>
                 <Visual>
