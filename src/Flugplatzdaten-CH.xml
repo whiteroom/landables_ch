@@ -745,8 +745,7 @@
                 <Elevation>1707m MSL</Elevation>
                 <Com>
                     <Frequency mode="atis">136.600</Frequency>
-                    <Frequency mode="afis">135.325</Frequency>
-                    <Frequency mode="gld">123.675</Frequency>
+                    <Frequency mode="twr">135.325</Frequency>
                 </Com>
                 <Long-Lat>046° 32.067N / 009° 53.033E</Long-Lat>
                 <Visual>
@@ -820,7 +819,6 @@
                 <Com>
                     <Frequency mode="atis">130.630</Frequency>
                     <Frequency mode="twr">118.275</Frequency>
-                    <Frequency mode="gld">123.680</Frequency>
                 </Com>
                 <Long-Lat>047° 10.300N / 009° 02.370E</Long-Lat>
                 <Visual>
